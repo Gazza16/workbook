@@ -5,19 +5,56 @@
     *Word count guide 300 - 500 words.*
 
     1 key event and perhaps the most important was the work produces by a company called ARPA (The advanced research projects agency), more specifically its subsidiary 
-    whose focus was on developing a network capable of sharing data across multiple computers, ARPANET.
+    whose focus was on developing a network capable of sharing data across multiple computers, ARPANET. In 1969 ARPANET created what was to be the foundations of the internet 
+    by utilizing an idea called packet switching. With this the first 4 fuctioning nodes were created, spread across cities in the Western states of America and capable of cumminicating
+     with one another.
 
+    <Insert image here> 
     
+    However, this presented an entirely new set of challenges as communication between the nodes was not as straight forward as it is today as stated by Giovanni Navarria. "Using ARPANET was like being given a telephone and unlimited credit only to find out that the only users we can call don’t speak our language". To solve this problem a research group consisting mostly of university students from UCLA set out to create host to host network
+    software. 
+
+
+
 
 
     <br>
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 2. **Define** the features of the following technologies that are essential in terms of the development of the internet:
     * packets
+    Packets are the result of breaking down emails, images, audio or any other piece of information in small size bytes and sent off to 
+    its intended destination via the best available route using a packet switch network. This is what gave the internet its efficiency. 
+
+
     * IP addresses (IPv4 and IPv6)
+    Making communication between networks possible. And IP (internet protocol) address is a uniqie identified in order for devices to 
+    communicate between different networks. IPv4 was the 4th version deployed for production and is 32 bits in length and broken down into in order
+    to identify its country, region, subnet work and  device. However due to the internets popularity the internet is transitioning to IPv6, a longer IP
+    address format. This will allow for a much larger number of unique IP numbers. 
+
     * routers and routing
+    
     * domains and DNS
     
     **Explain** how each technology has contributed to the development of the internet.
@@ -26,6 +63,29 @@
     
     <br>
     
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 3. **Define** the features of the following technologies that are essential in terms of the development of the internet:
@@ -92,3 +152,10 @@
 
 
 https://theconversation.com/how-the-internet-was-born-from-the-arpanet-to-the-internet-68072 - Giovanni Navarria - November 2016 - University of Sydney
+
+Packets
+https://computer.howstuffworks.com/question525.htm 2009
+
+
+IP
+https://www.youtube.com/watch?v=MwxMsaFFycg - Khan academy
