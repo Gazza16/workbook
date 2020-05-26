@@ -59,7 +59,9 @@
     and outgaes, routers help this be possible.
     
     * domains and DNS
-
+    Perhaps on of the most distiguishing features of the internet is how we use domain names. Domain names act as an addressing scheme for its websites.
+    Rather than memorising an IP address all that is needed are a couple of works and finding any information or website you desire has become a simpler process.
+    Domain names are perhaps the most sought after thing on the internet for anybody starting a website, especially for companies. 
     
     **Explain** how each technology has contributed to the development of the internet.
 
