@@ -54,8 +54,12 @@
     address format. This will allow for a much larger number of unique IP numbers. 
 
     * routers and routing
+    Routers serve as connecting points between different nodes. Routers and routing assist in handling traffic and communication between nodes
+    in a more effective way. Given how popular the internet has become it is important to keep large networks operational both during redesigns 
+    and outgaes, routers help this be possible.
     
     * domains and DNS
+
     
     **Explain** how each technology has contributed to the development of the internet.
 
@@ -159,3 +163,8 @@ https://computer.howstuffworks.com/question525.htm 2009
 
 IP
 https://www.youtube.com/watch?v=MwxMsaFFycg - Khan academy
+
+Routers
+https://yourbusiness.azcentral.com/importance-routers-24056.html Andy Walton 
+
+Domains and DNS
