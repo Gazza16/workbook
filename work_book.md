@@ -85,17 +85,9 @@
 
 
 
-
-
-
-
-
-
-
-
-
 3. **Define** the features of the following technologies that are essential in terms of the development of the internet:
     * TCP *(word count guide: 150 - 300 words)*
+    
     * HTTP and HTTPS *(word count guide: 150 - 300 words)*
     * web browsers (requests, rendering and developer tools) *(200 - 300 words)*
     
@@ -110,6 +102,15 @@
 4. **Identify** THREE data structures used in the Python programming language and **explain** the reasons for using each.
   
     *Word count guide: 50 - 100 words on each data structure*
+
+    Strings:
+	    A string is a data structure represented by characters such as letters, spaces, symbols or numbers. Strings can be modified by adding, removing characters or capitalising after creation. They are essential for communication between the computer and the person using it.
+
+    Lists:
+	    A list is a method of storing data in an ordered manner. Each item in a list has a corresponding number for knowing it’s location, this is known as an index. Lists are useful for storing large numbers of items and knowing the exact location of each by using either build in methods or customer ones. 
+
+    Dicts:
+	    Dicts is another methods of storing large quantities of information but this method is useful if non duplicates are not allowed. A dict has a kew and value system which acts like a dictionary. 
 
     <br>
 
@@ -170,3 +171,11 @@ Routers
 https://yourbusiness.azcentral.com/importance-routers-24056.html Andy Walton 
 
 Domains and DNS
+https://www.allbusiness.com/why-domain-names-are-so-important-681-1.html 
+
+strings
+https://www.geeksforgeeks.org/string-data-structure/ 
+
+lists
+https://www.geeksforgeeks.org/array-data-structure/
+
